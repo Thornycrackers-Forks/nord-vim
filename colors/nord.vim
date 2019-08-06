@@ -479,6 +479,7 @@ hi! link podFormat Keyword
 
 hi! link pythonBuiltin Type
 hi! link pythonEscape SpecialChar
+hi! link pythonStrFormat SpecialChar
 
 call s:hi("rubyConstant", s:nord7_gui, "", s:nord7_term, "", "", "")
 call s:hi("rubySymbol", s:nord6_gui, "", s:nord6_term, "", s:bold, "")
